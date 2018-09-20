@@ -1,2 +1,16 @@
 p {font family: "Lucida Sans Unicode"; "Lucida Grande"; "sans-serif";
 }
+ h2{font family: "Lucida Sans Unicode"; "Lucida Grande"; "sans-serif";
+}
+
+a:hover {
+    background-color: aqua;
+}
+
+a:focus {
+    background-color: aquamarine;
+}
+
+a:active {
+    background-color: cadetblue;
+}
